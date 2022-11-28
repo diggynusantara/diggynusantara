@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diggynusantara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, and many more
+- 🌱 I’m currently learning Java (Spring Boot), Javascript (React.js, Angular.js, Vue.js), Python and many more
+- 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me diggynusantara@gmail.com
 
 <!---
