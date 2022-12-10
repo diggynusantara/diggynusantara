@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/diggynusantara/diggynusantara/master/Dyslexia Background "Header")](https://instagram.com/diggynusantara)
+[![Header](https://raw.githubusercontent.com/diggynusantara/diggynusantara/master/Dyslexia Background.png "Header")](https://instagram.com/diggynusantara)
 
 Welcome to my github ![](https://komarev.com/ghpvc/?username=diggynusantara&label=PROFILE+VISITS)
 
