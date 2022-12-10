@@ -3,10 +3,10 @@
 Welcome to my github ![](https://komarev.com/ghpvc/?username=diggynusantara&label=PROFILE+VISITS)
 
 Hi, my name is Diggy Bani Nusantara, I'm from Indonesia and right now living in Tegal Central Java.
-I’m interested in Artificial Intelligence, Machine Learning, and many more
-I’m currently learning Java (Spring Boot), Javascript (React.js, Angular.js, Vue.js), Python, Golang and many more
-I’m looking to collaborate on your project
-How to reach me diggynusantara@gmail.com
+I’m interested in Artificial Intelligence, Machine Learning, and many more.
+I’m currently learning Java (Spring Boot), Javascript (React.js, Angular.js, Vue.js), Python, Golang and many more.
+I’m looking to collaborate on your project.
+How to reach me diggynusantara@gmail.com.
 You can find me on Social media account in down below:
 
 <a href="https://instagram.com/diggynusantara" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="xtenzq" width="30px" /></a>
