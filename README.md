@@ -1,28 +1,38 @@
-![Header](./github-header-image.png)(https://instagram.com/diggynusantara)
+![Header](./github-header-image.png)
 
 # Hi, Welcome to My Github Profile ![](https://komarev.com/ghpvc/?username=diggynusantara&label=PROFILE+VISITS)
 
-Hi, my name is Diggy Bani Nusantara, I'm from Indonesia and right now living in Tegal Central Java.
-I’m interested in Artificial Intelligence, Machine Learning, Web Development.
-I’m currently learning Java (Spring Boot), Javascript (React.js, Angular.js, Vue.js), Python, Golang and many more.
-I’m looking to collaborate on your project.
-How to reach me diggynusantara@gmail.com.
+Hi, my name is Diggy. 22 years old, avid programmer and gamer, and someone who prefers work to studies, but at the same time someone who never stops learning. I studied informatics engineering because I really likes technology development and game industry. Right now i'm living in Tegal, Central Java. I can code in Java decently, as well as in Javascript, and want to learn Python and other languages too. Instead of spending years in college learning lot of theory, I prefer to study on my own, learning things I can realistically apply in doing what I enjoy doing for a living–programming.
 You can find me on Social media account in down below:
 
-<a href="https://instagram.com/diggynusantara" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="xtenzq" width="30px" /></a>
 <a href="https://linkedin.com/in/diggynusantara" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="xtenzq" width="30px" /></a>
-  <a href="https://t.me/diggynusantara">
+<a href="https://www.youtube.com/channel/UCLaD_M6YDTUt_TfOrk1f4zg" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" alt="xtenzq" width="30px" /></a>
+<a href="https://instagram.com/diggynusantara" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="xtenzq" width="30px" /></a>
+<a href="https://fb.com/diggynusantara" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" alt="xtenzq" width="30px" /></a>
+<a href="https://t.me/diggynusantara">
   <img align="left" alt="Diggy Nusantara Telegram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
-<a href="https://fb.com/diggynusantara" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" alt="xtenzq" width="30px" /></a>
 </br>
 
-## Tools and Language
+## Language and Tools
 <p align="left">
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="35" height="35"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="35" height="35"/></a> &nbsp;
   
 ## Github Statistics
 <a href="https://github.com/diggynusantara/diggynusantara">
