@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/hazmicokro/hazmicokro/master/Profile.png "Header")](https://instagram.com/diggynusantara)
+[![Header](https://raw.githubusercontent.com/ "Header")](https://instagram.com/diggynusantara)
 
-#Welcome to my github ![](https://komarev.com/ghpvc/?username=diggynusantara&label=PROFILE+VISITS)
+Welcome to my github ![](https://komarev.com/ghpvc/?username=diggynusantara&label=PROFILE+VISITS)
 
 My name is Hazmi Cokro. I'm from Indonesia, living in Malang.
 Hi, my name is Diggy Bani Nusantara, I'm from Indonesia and right now living in Tegal Central Java.
