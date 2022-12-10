@@ -2,7 +2,6 @@
 
 Welcome to my github ![](https://komarev.com/ghpvc/?username=diggynusantara&label=PROFILE+VISITS)
 
-My name is Hazmi Cokro. I'm from Indonesia, living in Malang.
 Hi, my name is Diggy Bani Nusantara, I'm from Indonesia and right now living in Tegal Central Java.
 I’m interested in Artificial Intelligence, Machine Learning, and many more
 I’m currently learning Java (Spring Boot), Javascript (React.js, Angular.js, Vue.js), Python, Golang and many more
