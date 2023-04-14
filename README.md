@@ -2,7 +2,7 @@
 
 # Hi, Welcome to My Github Profile ![](https://komarev.com/ghpvc/?username=diggynusantara&label=PROFILE+VISITS)
 
-Hi, my name is Diggy. 22 years old, avid programmer and gamer, and someone who prefers work to studies, but at the same time someone who never stops learning. I studied informatics engineering because I really likes technology development and game industry. Right now i'm living in Tegal, Central Java. I can code in Java decently, as well as in Javascript, and want to learn Python and other languages too. Instead of spending years in college learning lot of theory, I prefer to study on my own, learning things I can realistically apply in doing what I enjoy doing for a living–programming.
+Hi, my name is Diggy Bani Nusantara. 22 years old, avid programmer and gamer, and someone who prefers work to studies, but at the same time someone who never stops learning. I studied informatics engineering because I really likes technology development and technology industry. Right now i'm living in Tegal, Central Java. My passion is to become a web developer. Whether it's back-end, front-end or even a fullstack engineer. I can use several web development frameworks like laravel, code igniter, react, vue and angular. I can code in Java decently, as well as in Javascript, and want to learn Python and other languages too. I prefer to study on my own, learning things I can realistically apply in doing what I enjoy doing for a living–programming.
 You can find me on Social media account in down below:
 
 <a href="https://linkedin.com/in/diggynusantara" target="blank"><img align="left" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="xtenzq" width="30px" /></a>
